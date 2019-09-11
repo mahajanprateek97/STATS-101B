@@ -5,7 +5,7 @@
 
 **Quarter: Spring 2019**
 
-In this class, we studied about the fundamentals of collecting data, including components of experiments, randomization and blocking, completely randomized design and ANOVA, multiple comparisons, power and sample size, and block designs.
+In this class, I studied the fundamentals of collecting data, including components of experiments, randomization and blocking, completely randomized design and ANOVA, multiple comparisons, power and sample size, and block designs.
 
 **Final Group Project**
 
